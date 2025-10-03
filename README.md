@@ -5,10 +5,10 @@ Currently building <i>Automatic Ballot Counter</i>. Open to <b>intership roles</
 
 ### 🔧 Tech I use
 <ul>
-  <li>**Languages** - C#, .NET, Python, Java, JavaScript, TypeScript, C++</li>
-<li>**Web & Databases** - HTML, CSS, React, Angular, Node.js, SQL, MongoDB, Firebase, Netlify</li>
-<li>**Cloud & DevOps** - AWS (Amplify, LEX, Bedrock, Lambda, S3, CloudWatch, DynamoDB, EC2, Route 53, IAM), Azure, CI/CD (GitHub Actions), Cloudflare</li>
-<li>**Tools & Other**- CNN ML, Tesseract OCR, MNIST Dataset, Git, Linux, Visual Studio, Unit Testing, ERP Systems, Twilio, XAML</li>
+  <li><b>Languages</b> - C#, .NET, Python, Java, JavaScript, TypeScript, C++</li>
+<li><b>Web & Databases</b> - HTML, CSS, React, Angular, Node.js, SQL, MongoDB, Firebase, Netlify</li>
+<li><b>Cloud & DevOps</b> - AWS (Amplify, LEX, Bedrock, Lambda, S3, CloudWatch, DynamoDB, EC2, Route 53, IAM), Azure, CI/CD (GitHub Actions), Cloudflare</li>
+<li><b>Tools & Other</b> - CNN ML, Tesseract OCR, MNIST Dataset, Git, Linux, Visual Studio, Unit Testing, ERP Systems, Twilio, XAML</li>
 </ul>
 
 
