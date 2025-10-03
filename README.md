@@ -17,5 +17,6 @@ Currently building <i>Automatic Ballot Counter</i>. Open to <b>intership roles</
 
 ---
 
-![Alt text](https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif)
+![Alt text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9samE2ZG5uanl5cmRnZTlsd3huZnFuNnF2cnVkNDh5Z3hzMXAzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif)
+
 
