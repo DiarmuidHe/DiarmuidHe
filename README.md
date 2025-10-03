@@ -13,6 +13,6 @@ Currently building <i>Automatic Ballot Counter</i>. Open to <b>intership roles</
 
 ---
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzQ5cWNtOHcyY2o5bnN2ZmdvOHppYTU5bmJ0aHIzM3o1c2JybmN3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRGoqbUQvk8nwTC/giphy.gif" height="200" width="100%" align="center" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXpteXR6Y3YwcWFlcGtlYnNwZzczbXJpemQ0NHZkYjZoNmxscDd1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7b8jdNUoFBdcoILjjv/giphy.gif" height="200" width="100%" align="center" />
 
 
