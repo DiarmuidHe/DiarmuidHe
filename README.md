@@ -11,10 +11,6 @@ Currently building <i>Automatic Ballot Counter</i>. Open to <b>intership roles</
 <li><b>Tools & Other</b> - CNN ML, Tesseract OCR, MNIST Dataset, Git, Linux, Visual Studio, Unit Testing, ERP Systems, Twilio, XAML</li>
 </ul>
 
-
-### 📫 Contact
-[Email](mailto:code@diarmuid.dev) · [LinkedIn](https://linkedin.com/in/d-hession) · [Portfolio](https://diarmuid.dev)
-
 ---
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29odXloeW5qc3l4ZGRubzZkbm0weWkxZnZxeXJiYzZyYjA4bXVkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="300" align="center" />
