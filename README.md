@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="left">Hi, I’m Your Name 👋</h1>
 
-<!--
-**DiarmuidHe/DiarmuidHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a <b>Software Engineer</b> focused on <b>backend systems & cloud</b>. 
+Currently building <i>Automatic Ballot Counter</i>. Open to <b>intership roles</b> in Ireland/EU.
 
-Here are some ideas to get you started:
+### 🔧 Tech I use
+**Languages** - C#, .NET, Python, Java, JavaScript, TypeScript, C++
+**Web & Databases** - HTML, CSS, React, Angular, Node.js, SQL, MongoDB, Firebase, Netlify
+**Cloud & DevOps** - AWS (Amplify, LEX, Bedrock, Lambda, S3, CloudWatch, DynamoDB, EC2, Route 53, IAM), Azure, CI/CD (GitHub Actions), Cloudflare
+**Tools & Other**- CNN ML, Tesseract OCR, MNIST Dataset, Git, Linux, Visual Studio, Unit Testing, ERP Systems, Twilio, XAML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📫 Contact
+[Email](mailto:code@diarmuid.dev) · [LinkedIn](https://linkedin.com/in/d-hession) · [Portfolio](https://diarmuid.dev)
+
+---
+
+
+
