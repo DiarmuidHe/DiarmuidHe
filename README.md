@@ -11,8 +11,6 @@ Currently building <i>Automatic Ballot Counter</i>. Open to <b>intership roles</
 <li><b>Tools & Other</b> - CNN ML, Tesseract OCR, MNIST Dataset, Git, Linux, Visual Studio, Unit Testing, ERP Systems, Twilio, XAML</li>
 </ul>
 
----
-
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXpteXR6Y3YwcWFlcGtlYnNwZzczbXJpemQ0NHZkYjZoNmxscDd1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7b8jdNUoFBdcoILjjv/giphy.gif" height="150" width="100%" align="center" />
 
 
